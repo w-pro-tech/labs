@@ -1,0 +1,2 @@
+Servidor 1: Web (192.168.1.10) - Ativo Servidor 2: BD 
+(192.168.1.20) - Ativo
